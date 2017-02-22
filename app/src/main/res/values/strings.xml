@@ -3,4 +3,5 @@
     <string name="Titulo">Hola mundo</string>
     <string name="txtNombre">Nombre</string>
     <string name="saludar">Saludar</string>
+    <string name="saludohola">Hola</string>
 </resources>

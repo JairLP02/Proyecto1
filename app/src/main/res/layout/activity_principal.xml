@@ -46,7 +46,8 @@
             android:layout_height="wrap_content"
             android:id="@+id/cmdBoton"
             android:text="@string/saludar"
-            android:textAppearance="@style/TextAppearance.AppCompat.Button" />
+            android:textAppearance="@style/TextAppearance.AppCompat.Button"
+            android:onClick="saludar(Principal)" />
 
         <TextView
             android:layout_width="match_parent"
